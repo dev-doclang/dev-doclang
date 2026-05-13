@@ -1,5 +1,5 @@
 <!-- Dynamic Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ĐỘC%20LANG&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Độc%20Lang&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Typing Animation -->
 <div align="center">
