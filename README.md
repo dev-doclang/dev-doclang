@@ -32,10 +32,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-doclang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-doclang&theme=radical&hide_border=true&background=0D1117&v=1" width="48%" />
-</div>
 
 <!-- This image is automatically generated via GitHub Actions daily -->
 <div align="center">
