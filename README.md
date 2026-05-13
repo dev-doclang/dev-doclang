@@ -10,11 +10,9 @@
 
 ### 👨‍💻 About Me
 
-* 🧠 **AI Engineering & RAG:** I specialize in architecting and building **Retrieval-Augmented Generation (RAG)** systems. My focus is on deploying **Local AI/LLMs** and utilizing **FAISS** (Facebook AI Similarity Search) to engineer high-performance vector databases and precise context-retrieval pipelines.
-* 💻 **Backend Architecture:** I have a strong foundation in building scalable enterprise systems, APIs, and optimizing complex database structures using **Laravel**, **C#**, and **Microsoft SQL Server**.
-* 🚀 **Beyond the Keyboard:** When I'm away from my IDE, I'm usually optimizing games on my handheld PCs (Steam Deck / ROG Ally), pushing my limits with strength training at the gym, or flying DJI drones for aerial videography.
-
-### 🛠️ Tech Stack & Arsenal
++ AI Engineering & RAG:** I specialize in architecting and building **Retrieval-Augmented Generation (RAG)** systems. My focus is on deploying **Local AI/LLMs** and utilizing **FAISS** (Facebook AI Similarity Search) to engineer high-performance vector databases and precise context-retrieval pipelines.
++ Backend Architecture:** I have a strong foundation in building scalable enterprise systems, APIs, and optimizing complex database structures using **Laravel**, **C#**, and **Microsoft SQL Server**.
++ Beyond the Keyboard:** When I'm away from my IDE, I'm usually optimizing games on my handheld PCs (Steam Deck / ROG Ally), pushing my limits with strength training at the gym, or flying DJI drones for aerial videography.
 
 <div align="center">
   <!-- AI & Data -->
@@ -27,7 +25,6 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
 
-### 🏆 GitHub Trophies
 <!-- Dynamically fetches your actual GitHub achievements -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -35,13 +32,11 @@
   </a>
 </div>
 
-### 📊 Development Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-doclang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-doclang&theme=radical&hide_border=true&background=0D1117" width="48%" />
 </div>
 
-### 🌆 3D Contribution City
 <!-- This image is automatically generated via GitHub Actions daily -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/dev-doclang/dev-doclang/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
